@@ -1,0 +1,8 @@
+[server]
+# Max size, in megabytes, for files uploaded with the file_uploader.
+# Default: 200
+maxUploadSize = 5000
+maxMessageSize = 5000
+enableCORS = false
+enableXsrfProtection = false
+enableWebsocketCompression = false
